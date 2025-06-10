@@ -12,5 +12,5 @@ sources: Oxford English Dictionary - All words
 Becuase of no preor experince on creating my own dictionary. This took me long enough to make me sleepless. Ha ha.
 
 ## Inspired/Credit 
-<b>[Anirban_bro](https://github.com/anirban12d)</b>. Thank you so much brother.
+<b>[Minas Kamal](https://github.com/MinhasKamal/BengaliDictionary)</b>. Thank you so much brother.
 
